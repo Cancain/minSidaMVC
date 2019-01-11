@@ -1,0 +1,15 @@
+{
+  "name": "minsidamvc",
+  "version": "1.0.0",
+  "description": "My personal page, remade in my own MVC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "minSidaMVC"
+  },
+  "author": "Tomas Eriksson",
+  "license": "ISC"
+}
